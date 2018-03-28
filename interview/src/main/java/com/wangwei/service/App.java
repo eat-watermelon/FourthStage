@@ -33,6 +33,8 @@ public class App {
         app.changeStr(str);
         System.out.println(str);
 
+        System.out.println("修改之后提交");
+
     }
 
 }
